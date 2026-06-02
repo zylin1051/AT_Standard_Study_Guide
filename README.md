@@ -1,6 +1,7 @@
-### Updated: June 1, 2026
+# Advance Technology Standard Documents
+**Updated: June 2, 2026**
 
-**IMPORTANT**
+## IMPORTANT 
 
 This platform should be used as a refenrence only. **ALWAYS** refer the original documents for details and clarity.
 
